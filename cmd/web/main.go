@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/parselynk/bookings/pkg/config"
-	"github.com/parselynk/bookings/pkg/handlers"
-	"github.com/parselynk/bookings/pkg/render"
+	"github.com/parselynk/bookings/internal/config"
+	"github.com/parselynk/bookings/internal/handlers"
+	"github.com/parselynk/bookings/internal/render"
 )
 
 const portNumber = ":8089"
